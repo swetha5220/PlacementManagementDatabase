@@ -1,0 +1,39 @@
+
+
+.company{
+    width:620px;
+    height:900px;
+    margin-top:50px;
+    margin-bottom:50px;
+    border-radius:50px;
+    background:rgba(135, 206, 250, 0.596);
+    margin-left: 400px;
+    padding:50px;
+}
+h1{
+    margin:0;
+    padding:0 0 20px;
+    text-align: center;
+    font-size: 45px;
+}
+.company p{
+    font-weight: bold;
+    font-size:20px;
+}
+.company input[type="submit"]{
+    margin-left: 35%;
+    border:none;
+    outline:none;
+    height:40px;
+    border-radius: 20px;
+    font-size:18px;
+    color:#fff;
+    background:#fb2525;
+    
+}
+.company input[type="submit"]:hover{
+    cursor:pointer;
+    background:#ffc107;
+    color:#000;
+}
+

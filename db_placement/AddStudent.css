@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding:0;
+}
+.main{
+    margin-left: 550px;
+   margin-top:50px;
+   margin-bottom:50px;
+   border-radius:50px;
+   
+    width:400px;
+    height:1080px;
+    background-color:rgba(173, 216, 230, 0.596);
+    padding:40px;
+    
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+.main p{
+    font-weight:bold;
+}
+.main input[type="submit"]{
+    margin-left: 38%;
+    border:none;
+    outline:none;
+    height:40px;
+    border-radius: 20px;
+    font-size:18px;
+    color:#fff;
+    background:#fb2525;
+    
+}
+.main input[type="submit"]:hover{
+    cursor:pointer;
+    background:#ffc107;
+    color:#000;
+}
